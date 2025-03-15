@@ -5,6 +5,7 @@ A n g e l</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<br/>
 
 - 🔭  I’m currently looking for a job.
 
@@ -13,6 +14,7 @@ A n g e l</a></h1>
 - 🤝 I’m available for freelancing.
 
 - 📫 How to reach me **angel.canela99@gmail.com**
+<br/>
 <br/>
 <div id="user-content-toc">
   <ul align="center">
