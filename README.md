@@ -14,6 +14,19 @@ A n g e l</a></h1>
 
 - 📫 How to reach me **angel.canela99@gmail.com**
 <br/>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,sass,css,gulp,postgres,github,html,js,mongodb,mysql,nodejs,postman,vue,tailwind,ts,vscode" />
+  </a>
+</p>
+
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
