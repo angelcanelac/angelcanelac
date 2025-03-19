@@ -11,8 +11,6 @@ A n g e l</a></h1>
 
 - 🌱 I’m currently learning frontend and backend skills.
 
-- 🤝 I’m available for freelancing.
-
 - 📫 How to reach me **angel.canela99@gmail.com**
 <br/>
 <br/>
