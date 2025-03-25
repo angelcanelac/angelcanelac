@@ -3,7 +3,7 @@ A n g e l</a></h1>
 <h3 align="center">A passionate Frontend Developer from Dominican Republic</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWcxOWo1d3JoeWRmNndkbmwzNWZocXk5MGx5aXE3bXc2YXZydGlqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
 </a>
 <br/>
 
